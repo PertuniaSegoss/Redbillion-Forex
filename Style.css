@@ -1,0 +1,114 @@
+div {
+}
+.header {
+  background-color: #8dc6ff;
+  text-align: center;
+}
+.cold {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+h2 {
+  text-align: center;
+  color: black;
+}
+.white {
+  color: white;
+}
+h3 {
+  text-align: start;
+  color: black;
+}
+h4 {
+  font-weight: lighter;
+  font-size: 20px;
+  text-align: start;
+  color: #38598b;
+}
+h6 {
+  text-align: center;
+  font-weight: lighter;
+}
+ol {
+  text-align: start;
+}
+p {
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: start;
+  color: black;
+}
+.make {
+  text-align: start;
+}
+li {
+  text-align: start;
+}
+.container {
+  display: flex;
+  block-size: auto;
+  flex-direction: row;
+  width: 20%;
+}
+.done {
+  display: flex;
+  block-size: auto;
+  flex-direction: row;
+  width: 100%;
+}
+button {
+  border-radius: 25px;
+  margin: 0 auto;
+  display: block;
+  background-color: #fff;
+  border: 5px solid black;
+  color: black;
+  font-size: 18px;
+  line-height: 22px;
+  padding: 16px 24px;
+  text-decoration: none;
+  transition: all 200ms ease;
+  cursor: pointer;
+  text-align: center;
+  font-weight: lighter;
+}
+
+button:hover {
+  color: white;
+  background: black;
+}
+.made {
+  border-radius: 25px;
+  margin: 0 auto;
+  display: block;
+  background-color: #e4f1fe;
+  border: 5px solid white;
+  color: black;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 16px 24px;
+  text-decoration: none;
+  transition: all 200ms ease;
+  cursor: pointer;
+  font-size: medium;
+}
+.come {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 20%;
+  height: auto;
+  display: block;
+}
+body {
+  background-color: white;
+}
+img {
+  width: 400px;
+  border-radius: 10px;
+}
+.left {
+  text-align: left;
+}
